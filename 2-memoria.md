@@ -27,3 +27,4 @@ docker run -d --name server-nginx --memory=300m --memory-swap=1g nginx:alpine
 ```
 **¿Cuántos megabytes de memoria swap puede utilizar el contenedor creado anteriormente?**
 ## COMPLETAR CON LA RESPUESTA
+Como un ($1\text{ GB} = 1024\text{ MB}$):$$1024\text{ MB} - 300\text{ MB} = 724\text{ MB}$$
